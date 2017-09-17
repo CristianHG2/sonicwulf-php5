@@ -1,0 +1,1 @@
+{"literal":{"default":{"head":"headers\/head.php","header":"headers\/header.php","footer":"headers\/footer.php"}},"regex":{"auth-":{"head":"headers\/head.php","header":"headers\/loginHeader.php","footer":"headers\/footer.php"}},"sonicvars":{"site_url":"http:\/\/www.example.com\/"}}

@@ -1,0 +1,57 @@
+==================================================
+=												 =
+=			SONICWULF ERROR SCHEME 				 =
+=												 =
+==================================================
+
+Scheme: [CATEGORY][ID]
+
+	- Error categories
+		- Boot : 1
+		- Class load : 2
+		- SonicModel : 3
+		- SonicCondition : 4
+		- Config Error : 5
+		- Lex Error: 6
+		- Listing error: 7
+		- LexCalls error: 8
+	- Error IDs:
+		- No config dir : 1
+		- No conf.json file : 2
+		- Incorrect owner of conf.json : 3
+		- Incorrect permissions of conf.json : 4
+		- Could not parse config file : 5
+		- No DB configuration present : 6
+		- The child of the row class doesn't extend SonicModelChild : 7
+		- Class property conflicts with column or viceversa : 8
+		- Invalid object provided for model condition : 9
+		- Invalid parameter provided for SonicCondition : 10
+		- Invalid OS : 11
+		- Unparsable config file : 12
+		- Unable to write to file : 13
+		- Attempting to directly change property value : 14
+		- No such property : 15
+		- Could not create dynamic class: 16
+		- Could not create dynamic class directory : 17
+		- Dynamic configuration instance not found : 18
+		- Invalid token : 19
+		- Syntax error for token : 20
+		- View component does not exist: 21
+		- Incorrect argument for compile : 22
+		- ERROR NO LONGER ACTIVE, PLACEHOLDER FOR ERROR #23
+		- Not an instance of CONTPROP : 24
+		- Cannot set directly : 25
+		- Cannot fetch directly : 26
+		- Cannot set the contPropname property : 27
+		- Not an instance of Token : 28
+		- LexCalls static method does not exist : 29
+		- Could not delete dynamic class due to changes : 30
+		- No such column in table : 31
+		- Cannot method chain : 32
+		- Invalid order type : 33
+		- Invalid offset or start type : 34
+		- No such table : 35
+		- No template assigned: 36
+		- No such file : 37
+		- Malformed cache : 38
+		- Could not write to cache : 39
